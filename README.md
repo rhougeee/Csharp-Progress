@@ -9,6 +9,7 @@ This Repository tracks my progress in programming using C#
         - Random Generated Number Guessing Game (Unlimited Guesses until correct, tells how many guesses before correct) + ask if want to play again
         - Rock, Paper, Scissors game (Repeatable)
         - Basic Calculator (Addition, Substraction, Multiplication, Division, and Exponent)
+        - 
   - **Week 2:** deep diving OOP
       - # Week 2 - Interactive Bank Account System
         ## features
@@ -16,7 +17,7 @@ This Repository tracks my progress in programming using C#
         - Withdraw and Diposit (with input)
         - Transfer Money (with input)
       - # Week 2 - Two-player Turn-based battle game
-        ## featurs
+        ## features
         - Lets player 1/player 2 decide whether to attack or heal
         - Attack
         - Heal
