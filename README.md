@@ -1,4 +1,5 @@
 This Repository tracks my progress in programming using C#
+(This is my first language, and first time learning programming)
 
 ## Month 1
   - **Week 1:** Basics and Fundamentals of C#
