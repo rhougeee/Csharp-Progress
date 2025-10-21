@@ -1,9 +1,6 @@
 This Repository tracks my progress in programming using C#
 (This is my first language, and first time learning programming)
 
-## 🧠 Tech Stack
-- C#
-
 ## Month 1
   - **Week 1:** Basics and Fundamentals of C#
       - # Week 1 - Mini Project
