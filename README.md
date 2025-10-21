@@ -1,6 +1,12 @@
 This Repository tracks my progress in programming using C#
 (This is my first language, and first time learning programming)
 
+## 💻 Tech Stack
+
+| Category | Technologies |
+|-----------|---------------|
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
+
 ## Month 1
   - **Week 1:** Basics and Fundamentals of C#
       - # Week 1 - Mini Project
